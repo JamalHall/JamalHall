@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jamal Hall</h1>
+<h1 align="center"> I'm 👋🏽Jamal Hall</h1>
 <h3 align="center">I am a software engineer who will continue to learn and master the art of coding. My goal is to help develop the technology that will assist my community socially and economically.</h3>
 
 - 🌱 I’m currently learning **Node.js and React.js**
 
-- 👨‍💻 All of my projects are available at [https://jamalhall.netlify.app/](https://jamalhall.netlify.app/)
+- 👨‍💻 See my portfolio [Here](https://jamalhall.netlify.app/)
 
 - 📫 How to reach me **jamalhallwebdev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jamalhallswe/](https://www.linkedin.com/in/jamalhallswe/)
+- 📄 Discover my experiences [Here](https://www.linkedin.com/in/jamalhallswe/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
