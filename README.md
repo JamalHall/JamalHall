@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 <h1 align="center"> I'm 👋🏽Jamal Hall</h1>
+
 <h3 align="center">I am a software engineer who will continue to learn and master the art of coding. My goal is to help develop the technology that will assist my community socially and economically.</h3>
 
 - 🌱 I’m currently learning **Node.js and React.js**
