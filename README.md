@@ -1,15 +1,15 @@
 
 <h1 align="center"> I'm 👋🏽Jamal </h1>
 
-<h3 align="center">I am a software engineer who will continue to learn and master my art of coding. I desire to develop technology that will assist my community socially and economically.</h3>
+<h3 align="center">I am a software engineer who will continue to learn and master the art of coding. I desire to develop technology that will assist my community socially and economically.</h3>
 
 - 🌱 I’m currently learning **Node.js, Mongo.db, and React.js**
 
-- 👨‍💻 See my portfolio [Here](https://jamalhall.netlify.app/)
+- 👨‍💻 Current projects and portfolio [Here](https://jamalhall.netlify.app/)
 
 - 📫 How to reach me **jamalhallwebdev@gmail.com**
 
-- 📄 Discover my experiences [Here](https://www.linkedin.com/in/jamalhallswe/)
+- 📄Reach me on LinkedIn  [Here](https://www.linkedin.com/in/jamalhallswe/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
