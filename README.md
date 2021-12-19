@@ -11,7 +11,8 @@
 
 - 📄Reach me on LinkedIn  [Here](https://www.linkedin.com/in/jamalhallswe/)
 
-- 🐱‍👤Join me on CodeWars <img src="https://www.codewars.com/users/JamalH/badges/large">
+- 🐱‍👤Join me on CodeWars <img src="URL:https://www.codewars.com/users/JamalH/badges/small
+">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
