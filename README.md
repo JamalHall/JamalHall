@@ -24,9 +24,9 @@
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jamalhall&show_icons=true&locale=en&layout=compact" alt="jamalhall" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamalhall&show_icons=true&locale=en" alt="jamalhall" /></p> -->
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamalhall&show_icons=true&locale=en" alt="jamalhall" /></p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamalhall&" alt="jamalhall" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamalhall&" alt="jamalhall" /></p> -->
 
 <!-- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  -->
