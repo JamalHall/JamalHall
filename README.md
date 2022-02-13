@@ -22,7 +22,7 @@
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jamalhall&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="jamalhall" /></p>
 
-<p align="center"><img src="![Jamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamalHall&hide=issues,contribs&count_private=true&show_icons=true&theme=cobalt)" alt="Jamal Hall Git Hub Stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JamalHall&hide=issues,contribs&count_private=true&show_icons=true&theme=cobalt" alt="Jamal Hall Git Hub Stats"></p>
 
 
 
