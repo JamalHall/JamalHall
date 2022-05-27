@@ -5,7 +5,7 @@
 
 - 📐 I’m currently working with **Node.js, Mongo.db, and React.js**
 
-- 👨‍💻 My projects and portfolio [Here](https://jamalhall.netlify.app/)
+
 
 - 📫 Message me **jamalhallwebdev@gmail.com**
 
