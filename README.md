@@ -1,9 +1,9 @@
 
 <h1 align="center"> I'm 👋🏽Jamal </h1>
 
-<h3 align="center">I am a software engineer who will continue to learn and master the art of coding. I desire to develop technology that will assist my community socially and economically.</h3>
+<h3 align="center">I am a software engineer who loves to learn and lives to teach. I desire to develop technology and skills in others to assist my community socially and economically.</h3>
 
-- 📐 I’m currently working with **Node.js, Mongo.db, and React.js**
+- 📐 I’m currently working with **Oracle SQL, Typescript, and Java**
 
 
 
