@@ -5,7 +5,7 @@
 
 - 📐 I’m currently working with **Oracle SQL, Typescript, and Java**
 
-
+- 👨‍💻 My projects and portfolio [Here](https://jamalhall.netlify.app/)
 
 - 📫 Message me **jamalhallwebdev@gmail.com**
 
